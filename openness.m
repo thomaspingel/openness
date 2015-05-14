@@ -1,3 +1,4 @@
+% blah blah blah
 % openness
 % Calculates positive openness, a measure the dominance or enclosure of a 
 % location on an irregular surface (Yokoyama, Shirasawa, and Pike, 2002). 
